@@ -1,0 +1,25 @@
+ .title{
+	font-family: "ALK Tall Nusxuri", sans-serif;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 10px;
+}
+.text{
+	font-family: 'BPG Nateli Mtavruli', sans-serif;
+	 font-size: auto;
+    margin-top: 10px;
+    margin-left: 10px;
+    font-style: italic;
+}
+.title2{
+	font-family: 'Oswald', sans-serif;
+    font-size: 30px;
+    text-align: center;
+    margin-left: 10px;
+}
+.text2{
+ font-family: 'BPG Nateli Mtavruli';
+ font-size: auto;
+ margin-top: 10px;
+ }
+
